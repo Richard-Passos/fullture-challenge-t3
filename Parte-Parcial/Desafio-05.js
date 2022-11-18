@@ -34,15 +34,15 @@
 
   /* Expressões condicionais para vericar "firstNumber", "secondNumber" e
   "thirdNumber" */
-  if(firstNumber < secondNumber) {
-    if (firstNumber < thirdNumber) {
-      alert(`O primeiro número(${firstNumber}) é o menor entre os 3 números!`);
-    }
-  } else if (secondNumber < thirdNumber) {
-    alert(`O segundo número(${secondNumber}) é o menor entre os 3 números!`);
-  } else {
-    alert(`O terceiro número(${thirdNumber}) é o menor entre os 3 números!`);
-  }
+      if(firstNumber < secondNumber) {
+        if (firstNumber < thirdNumber) {
+          alert(`O primeiro número(${firstNumber}) é o menor entre os 3 números!`);
+        }
+      } else if (secondNumber < thirdNumber) {
+        alert(`O segundo número(${secondNumber}) é o menor entre os 3 números!`);
+      } else {
+        alert(`O terceiro número(${thirdNumber}) é o menor entre os 3 números!`);
+      }
 
   // Cálculo da média
   let mediaNumber = (firstNumber + secondNumber + thirdNumber)/3;

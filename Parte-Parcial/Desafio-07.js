@@ -3,7 +3,7 @@
 
   // Pedir números
   let weight = parseFloat(
-    prompt("Digite o seu PESO (Km) ( . no lugar de ,)")
+    prompt("Digite o seu PESO (Kg) ( . no lugar de ,)")
   )
   let height = parseFloat(
     prompt("Digite a sua ALTURA (m) ( . no lugar de ,)")
@@ -17,7 +17,7 @@
     alert("Opção inválida!")
     
     weight = parseFloat(
-      prompt("Digite o seu PESO (Km) ( . no lugar de ,)")
+      prompt("Digite o seu PESO (Kg) ( . no lugar de ,)")
     )
     height = parseFloat(
       prompt("Digite a sua ALTURA (m) ( . no lugar de ,)")
