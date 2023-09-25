@@ -3,7 +3,7 @@
 <br>
 
 ## :memo: Description
-Challenge from Fullture School.
+Challenge from Fullture School to practice JavaScript.
 
 <br>
 
